@@ -35,4 +35,14 @@ Feel free to explore these projects to see the breadth of my work.
 
 ---
 
+## My GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats-one-ebon.vercel.app?user=pgmystery&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+---
+
+## My top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgmystery)](https://github.com/schabibi1/github-readme-stats)
+
+---
+
 Feel free to reach out for collaborations, open-source contributions, or just a friendly chat about tech!
