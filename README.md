@@ -1,4 +1,4 @@
-# 👋 Moin! I'm Philipp G. (pgmystery)
+# 👋 Moin, Moin! I'm Philipp G. (pgmystery)
 
 # THIS PAGE IS STILL WIP!!!
 
