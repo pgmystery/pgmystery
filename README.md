@@ -38,7 +38,7 @@ Feel free to explore these projects to see the breadth of my work.
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=pgmystery&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=pgmystery&theme=onedark)
 
 ---
 
