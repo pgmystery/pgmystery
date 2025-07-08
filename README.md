@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a diverse skill se
 
 ## Certificates
 
-<a href="https://www.credly.com/badges/cc7e503b-ced1-41a5-87ec-bac0daa01320/public_url"><img src="https://github.com/user-attachments/assets/f4f2f747-0e1b-42e1-be0f-7c90400faff4" alt="aws-certified-cloud-practitioner" width="128" height="128" /></a>
+<a href="https://www.credly.com/badges/cc7e503b-ced1-41a5-87ec-bac0daa01320/public_url" target=”_blank”><img src="https://github.com/user-attachments/assets/f4f2f747-0e1b-42e1-be0f-7c90400faff4" alt="aws-certified-cloud-practitioner" width="128" height="128" /></a>
 
 
 ---
