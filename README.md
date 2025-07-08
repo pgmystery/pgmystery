@@ -36,6 +36,12 @@ Feel free to explore these projects to see the breadth of my work.
 
 ---
 
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=pgmystery&theme=onedark)
+
+---
+
 ## 📈 GitHub Stats
 
 ![Philipp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pgmystery&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
