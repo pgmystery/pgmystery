@@ -6,6 +6,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a diverse skill se
 
 ---
 
+## Certificates
+
+<img src="https://github.com/user-attachments/assets/f4f2f747-0e1b-42e1-be0f-7c90400faff4" alt="aws-certified-cloud-practitioner" width="128" height="128" />
+
+
+---
+
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Python, TypeScript/JavaScript, Go, Bash, C#
