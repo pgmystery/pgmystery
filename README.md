@@ -1,7 +1,5 @@
 # 👋 Moin Moin! I'm Philipp G. (pgmystery)
 
-# THIS PAGE IS STILL WIP!!!
-
 Welcome to my GitHub profile! I'm a passionate developer with a diverse skill set, always eager to learn and contribute to innovative projects.
 
 ---
