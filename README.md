@@ -47,9 +47,4 @@ Feel free to explore these projects to see the breadth of my work.
 
 ---
 
-## My top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgmystery)](https://github.com/schabibi1/github-readme-stats)
-
----
-
 Feel free to reach out for collaborations, open-source contributions, or just a friendly chat about tech!
