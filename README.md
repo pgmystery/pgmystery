@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a diverse skill set, always eager to learn and contribute to innovative projects.
 
-IT isn’t just my job — it’s my lifelong passion. With 20+ years of hands-on experience and a love for learning, I build complete solutions: from network architecture to full-stack development, DevOps automation, and cloud deployment.
+IT isn’t just my job — it’s my lifelong passion. With 20+ years of hands-on experience and a love for learning, I build complete solutions: from network architecture to full-stack development, DevOps automation, and cloud deployment. 🐘
 
 ---
 
@@ -65,4 +65,4 @@ Feel free to explore these projects to see the breadth of my work.
 
 ---
 
-Feel free to reach out for collaborations, open-source contributions, or just a friendly chat about tech! 🐘
+Feel free to reach out for collaborations, open-source contributions, or just a friendly chat about tech!
