@@ -65,4 +65,4 @@ Feel free to explore these projects to see the breadth of my work.
 
 ---
 
-Feel free to reach out for collaborations, open-source contributions, or just a friendly chat about tech!
+Feel free to reach out for collaborations, open-source contributions, or just a friendly chat about tech! 🐘
