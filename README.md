@@ -37,11 +37,11 @@ IT isn’t just my job — it’s my lifelong passion. With 20+ years of hands-o
 Here are some of my notable repositories:
 
 - [**docker-extension-vnc**](https://github.com/pgmystery/docker-extension-vnc): A Docker Desktop Extension that enables you to connect to VNC servers running inside Docker containers or on remote hosts — directly from Docker Desktop.
-- [**retropie-marketplace**](https://github.com/pgmystery/retropie-marketplace): A Python-based project for managing RetroPie installations and configurations.
-- [**device-router**](https://github.com/pgmystery/device-router): A Python utility for managing device connections and routing.
+- [**retropie-marketplace**](https://github.com/pgmystery/retropie-marketplace): A Python-based project for managing RetroPie ROMs installations over a GUI inside RetroPie.
+- [**device-router**](https://github.com/pgmystery/device-router): Web app for remotely accessing and controlling Linux, macOS, or BSD devices via a browser. Includes frontend, backend, and a connector for secure CLI access from anywhere.
 - [**asteroid-attack**](https://github.com/pgmystery/asteroid-attack): A Unity game for mobile platforms, showcasing my game development skills.
 - [**ssh-tunnel**](https://github.com/pgmystery/ssh-tunnel): Creates a ssh-tunnel Docker Container to a remote-server and expose a specific port to use locally, so another Docker Container or the host can use the ssh-tunnel.
-- [**sudoku_solver**](https://github.com/pgmystery/sudoku_solver): A Python application for solving Sudoku puzzles, designed for Android.
+- [**sudoku_solver**](https://github.com/pgmystery/sudoku_solver): A simple Sudoku solving app built with Python/Kivy. Offers intuitive input and an APK for easy installation on Android Devices.
 - [**Atlas Texture Creator**](https://github.com/pgmystery/atlas-texture-creator): A powerful desktop application tailored for game developers, digital artists, and texture artists. It simplifies the process of creating and managing texture atlases — large images composed of multiple smaller textures.
 
 Feel free to explore these projects to see the breadth of my work.
