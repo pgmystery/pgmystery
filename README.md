@@ -40,7 +40,7 @@ Here are some of my notable repositories:
 - [**retropie-marketplace**](https://github.com/pgmystery/retropie-marketplace): A Python-based project for managing RetroPie installations and configurations.
 - [**device-router**](https://github.com/pgmystery/device-router): A Python utility for managing device connections and routing.
 - [**asteroid-attack**](https://github.com/pgmystery/asteroid-attack): A Unity game for mobile platforms, showcasing my game development skills.
-- [**ssh-tunnel**](https://github.com/pgmystery/ssh-tunnel): A simple HTML-based tool for establishing SSH tunnels.
+- [**ssh-tunnel**](https://github.com/pgmystery/ssh-tunnel): Creates a ssh-tunnel Docker Container to a remote-server and expose a specific port to use locally, so another Docker Container or the host can use the ssh-tunnel.
 - [**sudoku_solver**](https://github.com/pgmystery/sudoku_solver): A Python application for solving Sudoku puzzles, designed for Android.
 - [**Atlas Texture Creator**](https://github.com/pgmystery/atlas-texture-creator): A powerful desktop application tailored for game developers, digital artists, and texture artists. It simplifies the process of creating and managing texture atlases — large images composed of multiple smaller textures.
 
