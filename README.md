@@ -7,6 +7,7 @@ IT isn’t just my job — it’s my lifelong passion. With 20+ years of hands-o
 Feel free to reach out for collaborations, open-source contributions, or just a friendly chat about tech!
 
 🐘
+
 ---
 
 ## 📜 Certificates
