@@ -38,7 +38,7 @@ Feel free to reach out for collaborations, open-source contributions, or just a 
 
 ## 📌 Featured Projects
 
-Here are some of my notable repositories:
+### Here are some of my notable repositories:
 
 - [**docker-extension-vnc**](https://github.com/pgmystery/docker-extension-vnc): A Docker Desktop Extension that enables you to connect to VNC servers running inside Docker containers or on remote hosts — directly from Docker Desktop.
 - [**retropie-marketplace**](https://github.com/pgmystery/retropie-marketplace): A Python-based project for managing RetroPie ROMs installations over a GUI inside RetroPie.
@@ -49,6 +49,10 @@ Here are some of my notable repositories:
 - [**Atlas Texture Creator**](https://github.com/pgmystery/atlas-texture-creator): A powerful desktop application tailored for game developers, digital artists, and texture artists. It simplifies the process of creating and managing texture atlases — large images composed of multiple smaller textures.
 
 Feel free to explore these projects to see the breadth of my work.
+
+### Here are some of the projects I’ve contributed to:
+
+- [**react-vnc**](https://github.com/roerohan/react-vnc): A React Component to connect to a websockified VNC server using noVNC.
 
 ---
 
