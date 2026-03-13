@@ -1,4 +1,6 @@
-# 👋 Moin Moin! I'm Philipp G. (pgmystery)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=👋%20Moin%20Moin!%20I'm%20Philipp%20G.%20(pgmystery)&fontSize=40&fontColor=ffffff"/>
+</p>
 
 Welcome to my GitHub profile! I'm a passionate developer with a diverse skill set, always eager to learn and contribute to innovative projects.
 
@@ -132,31 +134,35 @@ Feel free to reach out for collaborations, open-source contributions, or just a 
 
 ### Here are some of my notable repositories:
 
-- [**docker-extension-vnc**](https://github.com/pgmystery/docker-extension-vnc): A Docker Desktop Extension that enables you to connect to VNC servers running inside Docker containers or on remote hosts — directly from Docker Desktop.
-- [**retropie-marketplace**](https://github.com/pgmystery/retropie-marketplace): A Python-based project for managing RetroPie ROMs installations over a GUI inside RetroPie.
-- [**device-router**](https://github.com/pgmystery/device-router): Web app for remotely accessing and controlling Linux, macOS, or BSD devices via a browser. Includes frontend, backend, and a connector for secure CLI access from anywhere.
-- [**asteroid-attack**](https://github.com/pgmystery/asteroid-attack): A Unity game for mobile platforms, showcasing my game development skills.
-- [**ssh-tunnel**](https://github.com/pgmystery/ssh-tunnel): Creates a ssh-tunnel Docker Container to a remote-server and expose a specific port to use locally, so another Docker Container or the host can use the ssh-tunnel.
-- [**sudoku_solver**](https://github.com/pgmystery/sudoku_solver): A simple Sudoku solving app built with Python/Kivy. Offers intuitive input and an APK for easy installation on Android Devices.
-- [**Atlas Texture Creator**](https://github.com/pgmystery/atlas-texture-creator): A powerful desktop application tailored for game developers, digital artists, and texture artists. It simplifies the process of creating and managing texture atlases — large images composed of multiple smaller textures.
+[![docker-extension-vnc](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=docker-extension-vnc&theme=radical)](https://github.com/pgmystery/docker-extension-vnc)
+[![device-router](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=device-router&theme=radical)](https://github.com/pgmystery/device-router)
+[![retropie-marketplace](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=retropie-marketplace&theme=radical)](https://github.com/pgmystery/retropie-marketplace)
+[![ssh-tunnel](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=ssh-tunnel&theme=radical)](https://github.com/pgmystery/ssh-tunnel)
+[![asteroid-attack](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=asteroid-attack&theme=radical)](https://github.com/pgmystery/asteroid-attack)
+[![ssh-tunnel](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=ssh-tunnel&theme=radical)](https://github.com/pgmystery/ssh-tunnel)
+[![sudoku_solver](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=sudoku_solver&theme=radical)](https://github.com/pgmystery/sudoku_solver)
+[![Atlas Texture Creator](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=atlas-texture-creator&theme=radical)](https://github.com/pgmystery/atlas-texture-creator)
 
 Feel free to explore these projects to see the breadth of my work.
 
 ### Here are some of the projects I’ve contributed to:
 
-- [**react-vnc**](https://github.com/roerohan/react-vnc): A React Component to connect to a websockified VNC server using noVNC.
+[![react-vnc](https://github-readme-stats.vercel.app/api/pin/?username=roerohan&repo=react-vnc&theme=radical)](https://github.com/roerohan/react-vnc)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=pgmystery&theme=onedark)
+![](https://gh-trophy.cdnsoft.net/?username=pgmystery&theme=onedark)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Philipp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pgmystery&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pgmystery&show_icons=true&theme=radical&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgmystery&layout=compact&theme=radical"/>
+</p>
 
 ---
 
