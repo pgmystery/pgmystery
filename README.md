@@ -160,7 +160,6 @@ Feel free to explore these projects to see the breadth of my work.
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=pgmystery&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgmystery&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
