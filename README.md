@@ -21,6 +21,23 @@ Feel free to reach out for collaborations, open-source contributions, or just a 
 
 # 💻 Tech Stack
 
+## 🤖 AI
+
+<p align="center">
+
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge\&logo=langchain\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge\&logo=langgraph\&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge\&logo=ollama\&logoColor=white)
+
+![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge\&logo=huggingface\&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge\&logo=google%20gemini\&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge\&logo=claude\&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge\&logo=openai\&logoColor=white)
+
+</p>
+
+---
+
 ## 🧑‍💻 Languages
 
 <p align="center">
@@ -109,24 +126,6 @@ Feel free to reach out for collaborations, open-source contributions, or just a 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
 </p>
-
----
-
-## 🤖 AI
-
-<p align="center">
-
-![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge\&logo=langchain\&logoColor=white)
-![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge\&logo=langgraph\&logoColor=white)
-![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge\&logo=ollama\&logoColor=white)
-
-![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge\&logo=huggingface\&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge\&logo=google%20gemini\&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge\&logo=claude\&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge\&logo=openai\&logoColor=white)
-
-</p>
-
 
 ---
 
