@@ -138,7 +138,6 @@ Feel free to reach out for collaborations, open-source contributions, or just a 
 [![retropie-marketplace](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=retropie-marketplace&theme=tokyonight)](https://github.com/pgmystery/retropie-marketplace)
 [![ssh-tunnel](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=ssh-tunnel&theme=tokyonight)](https://github.com/pgmystery/ssh-tunnel)
 [![asteroid-attack](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=asteroid-attack&theme=tokyonight)](https://github.com/pgmystery/asteroid-attack)
-[![ssh-tunnel](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=ssh-tunnel&theme=tokyonight)](https://github.com/pgmystery/ssh-tunnel)
 [![sudoku_solver](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=sudoku_solver&theme=tokyonight)](https://github.com/pgmystery/sudoku_solver)
 [![Atlas Texture Creator](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=atlas-texture-creator&theme=tokyonight)](https://github.com/pgmystery/atlas-texture-creator)
 
