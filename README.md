@@ -133,20 +133,20 @@ Feel free to reach out for collaborations, open-source contributions, or just a 
 
 ### Here are some of my notable repositories:
 
-[![docker-extension-vnc](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=docker-extension-vnc&theme=radical)](https://github.com/pgmystery/docker-extension-vnc)
-[![device-router](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=device-router&theme=radical)](https://github.com/pgmystery/device-router)
-[![retropie-marketplace](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=retropie-marketplace&theme=radical)](https://github.com/pgmystery/retropie-marketplace)
-[![ssh-tunnel](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=ssh-tunnel&theme=radical)](https://github.com/pgmystery/ssh-tunnel)
-[![asteroid-attack](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=asteroid-attack&theme=radical)](https://github.com/pgmystery/asteroid-attack)
-[![ssh-tunnel](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=ssh-tunnel&theme=radical)](https://github.com/pgmystery/ssh-tunnel)
-[![sudoku_solver](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=sudoku_solver&theme=radical)](https://github.com/pgmystery/sudoku_solver)
-[![Atlas Texture Creator](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=atlas-texture-creator&theme=radical)](https://github.com/pgmystery/atlas-texture-creator)
+[![docker-extension-vnc](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=docker-extension-vnc&theme=tokyonight)](https://github.com/pgmystery/docker-extension-vnc)
+[![device-router](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=device-router&theme=tokyonight)](https://github.com/pgmystery/device-router)
+[![retropie-marketplace](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=retropie-marketplace&theme=tokyonight)](https://github.com/pgmystery/retropie-marketplace)
+[![ssh-tunnel](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=ssh-tunnel&theme=tokyonight)](https://github.com/pgmystery/ssh-tunnel)
+[![asteroid-attack](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=asteroid-attack&theme=tokyonight)](https://github.com/pgmystery/asteroid-attack)
+[![ssh-tunnel](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=ssh-tunnel&theme=tokyonight)](https://github.com/pgmystery/ssh-tunnel)
+[![sudoku_solver](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=sudoku_solver&theme=tokyonight)](https://github.com/pgmystery/sudoku_solver)
+[![Atlas Texture Creator](https://github-readme-stats.vercel.app/api/pin/?username=pgmystery&repo=atlas-texture-creator&theme=tokyonight)](https://github.com/pgmystery/atlas-texture-creator)
 
 Feel free to explore these projects to see the breadth of my work.
 
 ### Here are some of the projects I’ve contributed to:
 
-[![react-vnc](https://github-readme-stats.vercel.app/api/pin/?username=roerohan&repo=react-vnc&theme=radical)](https://github.com/roerohan/react-vnc)
+[![react-vnc](https://github-readme-stats.vercel.app/api/pin/?username=roerohan&repo=react-vnc&theme=tokyonight)](https://github.com/roerohan/react-vnc)
 
 ---
 
@@ -159,8 +159,8 @@ Feel free to explore these projects to see the breadth of my work.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pgmystery&show_icons=true&theme=radical&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgmystery&layout=compact&theme=radical"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pgmystery&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgmystery&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
