@@ -26,7 +26,7 @@ jobs:
       - name: Generate card docker-extension-vnc
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: stats
+          card: pin
           options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&repo=docker-extension-vnc
           path: profile/cards/docker-extension-vnc.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -34,7 +34,7 @@ jobs:
       - name: Generate card device-router
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: stats
+          card: pin
           options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&repo=device-router
           path: profile/cards/device-router.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -42,7 +42,7 @@ jobs:
       - name: Generate card retropie-marketplace
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: stats
+          card: pin
           options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&repo=retropie-marketplace
           path: profile/cards/retropie-marketplace.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -50,7 +50,7 @@ jobs:
       - name: Generate card ssh-tunnel
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: stats
+          card: pin
           options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&repo=ssh-tunnel
           path: profile/cards/ssh-tunnel.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -58,7 +58,7 @@ jobs:
       - name: Generate card asteroid-attack
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: stats
+          card: pin
           options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&repo=asteroid-attack
           path: profile/cards/asteroid-attack.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -66,7 +66,7 @@ jobs:
       - name: Generate card sudoku_solver
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: stats
+          card: pin
           options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&repo=sudoku_solver
           path: profile/cards/sudoku_solver.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -74,7 +74,7 @@ jobs:
       - name: Generate card atlas-texture-creator
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: stats
+          card: pin
           options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&repo=atlas-texture-creator
           path: profile/cards/atlas-texture-creator.svg
           token: ${{ secrets.GITHUB_TOKEN }}
