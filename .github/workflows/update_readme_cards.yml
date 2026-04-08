@@ -1,0 +1,80 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate card docker-extension-vnc
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&repo=docker-extension-vnc
+          path: profile/cards/docker-extension-vnc.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate card device-router
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&repo=device-router
+          path: profile/cards/device-router.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate card retropie-marketplace
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&repo=retropie-marketplace
+          path: profile/cards/retropie-marketplace.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate card ssh-tunnel
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&repo=ssh-tunnel
+          path: profile/cards/ssh-tunnel.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate card asteroid-attack
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&repo=asteroid-attack
+          path: profile/cards/asteroid-attack.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate card sudoku_solver
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&repo=sudoku_solver
+          path: profile/cards/sudoku_solver.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate card atlas-texture-creator
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=tokyonight&show_icons=true&repo=atlas-texture-creator
+          path: profile/cards/atlas-texture-creator.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
