@@ -15,6 +15,14 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      - name: Generate card main
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&count_private=true
+          path: profile/cards/main.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate card docker-extension-vnc
         uses: readme-tools/github-readme-stats-action@v1
         with:
