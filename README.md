@@ -145,7 +145,7 @@ Feel free to explore these projects to see the breadth of my work.
 
 ### Here are some of the projects I’ve contributed to:
 
-[![react-vnc](https://github-readme-stats.vercel.app/api/pin/?username=roerohan&repo=react-vnc&theme=tokyonight)](https://github.com/roerohan/react-vnc)
+[![react-vnc](https://github-readme-stats.vercel.app/api/pin/?username=roerohan&repo=react-vnc&theme=tokyonight&show_icons=true)](https://github.com/roerohan/react-vnc)
 
 ---
 
